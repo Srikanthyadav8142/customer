@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class CustomerApplication {
-    public void demo(){
+    public void ram(){
 		System.out.println("hello");
 	}
 	public static void main(String[] args) {
